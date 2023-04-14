@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\bin\Debug\net6.0\Hoja de trabajo Métodos.exe
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\bin\Debug\net6.0\Hoja de trabajo Métodos.deps.json
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\bin\Debug\net6.0\Hoja de trabajo Métodos.runtimeconfig.json
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\bin\Debug\net6.0\Hoja de trabajo Métodos.dll
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\bin\Debug\net6.0\Hoja de trabajo Métodos.pdb
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.dll
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\refint\Hoja de trabajo Métodos.dll
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.pdb
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\Hoja de trabajo Métodos.genruntimeconfig.cache
+C:\Users\HP\source\repos\Hoja de trabajo Métodos\Hoja de trabajo Métodos\obj\Debug\net6.0\ref\Hoja de trabajo Métodos.dll
